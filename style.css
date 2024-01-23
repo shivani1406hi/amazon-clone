@@ -215,10 +215,10 @@ a{
 
 .box1img{
 
-    justify-content:space-evenly; 
-    display: grid;
-    grid-template-columns: auto auto;
-    background-size: cover;
+    background-image:url("Headset.jpg") ;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
     height: 80%;
     padding: 20px 0px 15px; 
     margin:10px 0px 10px 18px;
@@ -247,30 +247,25 @@ a{
 }
 .box4img{
 
-    justify-content:space-evenly; 
-    display: grid;
-    grid-template-columns: auto auto;
-    background-size: cover;
-    background-position:content;
+    background-image:url("rys1.jpg") ;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
     height: 80%;
     padding: 20px 0px 15px; 
     margin:10px 0px 10px 18px;
-    width:70%;
+    width:90%;
  }
 .box5img{
 
-    /* display: flex;
-    flex-wrap: wrap; */
-   
-    justify-content:space-evenly; 
-    display: grid;
-    grid-template-columns: auto auto;
-    background-size: cover;
+    background-image:url("jeansu50.jpg") ;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
     height: 80%;
-    /* padding: 20px 0px 15px; 
-    margin:10px 0px 10px 18px; */
-    width:80%;
-    
+    padding: 20px 0px 15px; 
+    margin:10px 0px 10px 18px;
+    width:90%;
  }
 .box6img{
 
@@ -284,11 +279,10 @@ a{
     width:90%;
  }
 .box7img{
-
-    justify-content:space-evenly; 
-    display: grid;
-    grid-template-columns: auto auto;
-    background-size:cover ;
+    background-image:url("pc.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
    
     height: 80%;
     padding: 20px 0px 15px; 
